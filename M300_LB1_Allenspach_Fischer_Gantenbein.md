@@ -8,7 +8,7 @@ Unser Auftrag war es, verschiedene Services via Vagrant und GitHub zu realisiere
 * Eigener Service auf Basis IaC implementieren (Note 5.0 – 5.5)
 * Projekt auf github Ablegen und Dokumentieren (Markdown) (Note 5.5 – 6.0)
 
-![Kompetenzen](Kompetenz_Bewertung.png)
+![Kompetenzen](https://github.com/Drasuk/M300-Services/blob/master/Kompetenz_Bewertung.PNG)
 ## Unser Vorgehen
 Wir arbeiteten nach dem IPERKA System. Wir schauten uns den Auftrag genau an und informierten uns über die verschiedenen Services. Anschliessen planten wir unser Vorgehen. Die Vorgehensweise wurde vom Auftragsdokument übernommen, da dort alles genau beschrieben wurde. Wir arbeiteten somit das Skript durch. Wir hatten Startprobleme, da es einige Zeit gedauert hat Django aufzusetzen. Wir lösten dieses Problem nach einiger langen informationsbeschaffung. Nachdem folgte die Arbeit am Skript. Wir teilten dann unter einander die verschiedenen Tätigkeiten zu.
 ## Github
@@ -30,13 +30,12 @@ Wir haben bei dem Auftrag des eigenen Services zuerst darauf geschaut, dass wir 
 Um das Testing durchzuführen haben wir verschiedene Testcases aufgeschrieben und nach diesen Fällen die Tests druchgeführt.
 Das erwartete Ergebniss und das tatsächliche ErgebnisS wurde dann dokumentiert und festgehalten.
 
-**|Test|** _Erwartete Ausgabe_ | _Tatsächliches Ausgabe_
+**|Test|** <br> _Erwartete Ausgabe_ <br>  _Tatsächliches Ausgabe_
 
-**|Erstellung VM|** _ttt_ | _ttt_
+**|Erstellung VM|** <br>  _ttt_ <br> _ttt_
 
-**|SSH Verbindung|** _ttt_ | _ttt_
+**|SSH Verbindung|** <br> _ttt_ <br> _ttt_
 
-**|Benutzer erstellung|** _ttt_ | _ttt_
+**|Benutzer erstellung|** <br> _ttt_ <br> _ttt__
 
-**|Sicherheit|** _ttt_ | _ttt_
-
+**|Sicherheit|** <br> _ttt_ <br> _ttt__
